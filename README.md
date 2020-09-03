@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="cover-image.jpeg" width="100%" title="Bourgine Berenger, Développeur PHP SYMFONY">
+  <img src="https://github.com/kirokou/kirokou/blob/master/cover-image.jpeg" width="100%" title="Bourgine Berenger, Développeur PHP SYMFONY">
 </div>
 
 ### Hi there 👋
