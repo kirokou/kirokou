@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="cover-image.jpeg" width="350" title="Bourgine Bérenger, Développeur PHP SYMFONY">
-</p>
+<div align="center">
+  <img src="cover-image.jpeg" width="100%" title="Bourgine Berenger, Développeur PHP SYMFONY">
+</div>
 
 ### Hi there 👋
 - 🔭 I’m currently working on symfony
