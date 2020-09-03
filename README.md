@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="cover-image.jpeg" width="350" title="Bourgine Bérenger, Développeur PHP SYMFONY">
+</p>
+
 ### Hi there 👋
 - 🔭 I’m currently working on symfony
 - 🌱 I’m currently learning ...
