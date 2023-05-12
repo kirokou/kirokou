@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/kirokou/kirokou/blob/master/cover-image.jpeg" width="100%" title="Bourgine Berenger, Développeur PHP SYMFONY">
-</div>
-
 ### Hi there 👋
 - 🔭 I’m currently working on symfony
 - 🌱 I’m currently learning ...
